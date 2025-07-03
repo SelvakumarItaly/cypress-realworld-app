@@ -45,7 +45,15 @@
 			"avatar_url": "https://avatars2.githubusercontent.com/u/1093738?v=4",
 			"profile": "https://github.com/davidkpiano",
 			"contributions": []
+		},
+{
+			"login": "SelvakumarItaly",
+			"name": "Selvakumar",
+			"avatar_url": "https://github.com/SelvakumarItaly.png?s=100",
+			"profile": "https://github.com/SelvakumarItaly",
+			"contributions": []
 		}
+
 	],
 	"contributorsPerLine": 7,
 	"projectName": "cypress-realworld-app",
